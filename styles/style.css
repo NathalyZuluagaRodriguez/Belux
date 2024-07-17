@@ -109,7 +109,7 @@ h1{
   padding-left: 100px;
 }
 h2{
-  font-size: 350%;
+  font-size: 60px;
   color: #ff008c;
 }
 .contenedor2{
@@ -322,7 +322,9 @@ footer{
   ul{
     font-size: 10px;
   }
-
+  h2{
+    font-size: 20px;
+  }
   h1{
     font-size: 30px;
   }
